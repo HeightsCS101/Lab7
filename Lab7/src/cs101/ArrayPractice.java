@@ -119,35 +119,35 @@ public class ArrayPractice {
 		System.out.println("Problem A =========================");
 		System.out.println(Arrays.toString(arrays_a()));
 
-		System.out.println("Problem B =========================");
+		System.out.println("\nProblem B =========================");
 		System.out.println(Arrays.toString(arrays_b()));
 
-		System.out.println("Problem C =========================");
+		System.out.println("\nProblem C =========================");
 		System.out.println(Arrays.toString(arrays_c()));
 
-		System.out.println("Problem D =========================");
+		System.out.println("\nProblem D =========================");
 		System.out.println(Arrays.toString(arrays_d()));
 
-		System.out.println("Problem E =========================");
+		System.out.println("\nProblem E =========================");
 		System.out.println(Arrays.toString(arrays_e()));
 
-		System.out.println("Problem F =========================");
+		System.out.println("\nProblem F =========================");
 		String[] f = { "qw", "er", "ty" };
 		System.out.println(arrays_f(f));
 
-		System.out.println("Problem G =========================");
+		System.out.println("\nProblem G =========================");
 		String[] g = { "pasta", "pizza", "rice" };
 		System.out.println(arrays_g(g));
 
-		System.out.println("Problem H =========================");
+		System.out.println("\nProblem H =========================");
 		int[] h = { 13, 15, 7, 98, 99, 100, 43, 34, 55 };
 		System.out.println(arrays_h(h));
 
-		System.out.println("Problem I =========================");
+		System.out.println("\nProblem I =========================");
 		int[] i = { 2, 66, 97, 79, 101, 202, 353 };
 		System.out.println(arrays_i(i));
 
-		System.out.println("Problem J =========================");
+		System.out.println("\nProblem J =========================");
 		boolean[] j = { true, true, true, true, true, true, true, true, true, true };
 		System.out.println(Arrays.toString(arrays_j(j)));
 
